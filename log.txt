@@ -1,0 +1,24 @@
+Beginning of log...
+---------------------------------------------------------------------------
+- My Last 20 Tweets
+---------------------------------------------------------------------------
+1: #nogastax tweeted on Thu Oct 06 23:54:11 +0000 2016
+---------------------------------------------------------------------------
+- OMDB Movie Details
+---------------------------------------------------------------------------
+Title: Pretty Woman
+Year: 1990
+Rating: 6.9
+Country: USA
+Language: English
+Plot: A man in a legal but hurtful business needs an escort for some social events, and hires a beautiful prostitute he meets... only to fall in love.
+Actors: Richard Gere, Julia Roberts, Ralph Bellamy, Jason Alexander
+Rotten Tomatoes Rating: 3.5
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/pretty_woman/
+---------------------------------------------------------------------------
+- Spotify Song Details
+---------------------------------------------------------------------------
+Artist(s): Parachute
+Song Name: Forever And Always
+Preview Link: https://p.scdn.co/mp3-preview/4cb5a2bb81241e929d8007eb12291b2574bdeba5
+Album: The Way It Was

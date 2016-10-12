@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Bootcamp Liri app",
+  "main": "keys.js",
+  "dependencies": {
+    "request": "^2.75.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "liri.js clear"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gudiaz/liri-node-app.git"
+  },
+  "author": "Graciela Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gudiaz/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/gudiaz/liri-node-app#readme"
+}
